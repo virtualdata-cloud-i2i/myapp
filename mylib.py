@@ -32,7 +32,7 @@ def add_numbers(num1: float, num2: float) -> float:
     Examples
     ----------
     >>> add_numbers(1.0, 1.0)
-    2.0
+    3.0
     """
     return num1 + num2
 
